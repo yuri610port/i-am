@@ -1,0 +1,11 @@
+# Personal data belongs outside this public repository.
+private/
+profiles/
+*.private.*
+*.local.*
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

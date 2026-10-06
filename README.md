@@ -19,9 +19,10 @@ I am は、その違和感を手掛かりに、何を大切にする人なのか
 
 ## まずは一つ、話してみる
 
-特別なアプリやプログラミングは不要です。次の3ファイルを開いて内容をAIに渡し、下の文章を送ってください。
+特別なアプリやプログラミングは不要です。次の4ファイルを開いて内容をAIに渡し、下の文章を送ってください。
 
 - [スキル本体](skills/i-am/SKILL.md)
+- [初期設定の手順](skills/i-am/references/setup.md)
 - [記入するひな形](skills/i-am/assets/profile-template.md)
 - [質問の進め方](skills/i-am/references/interview.md)
 
